@@ -12,7 +12,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Batss1&theme=discord_old_blurple&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Batss1&theme=discord_old_blurple&layout=compact)
 
-#### **Tecnologias**
+**Tecnologias**
 <div display="flex">
   <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <!--Python-->
   <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" /> <!--linguagem C-->
@@ -20,7 +20,7 @@
                  
 </div>
 
-#### **Ferramentas**
+**Ferramentas**
 
 <div display="flex">
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain.svg" /> <!-- Git -->
